@@ -12,6 +12,11 @@ disabled_rules:
 - empty_string
 - todo
 - inclusive_language
+- opening_brace
+- comment_spacing
+- unused_closure_parameter
+- colon
+- trailing_comma
 opt_in_rules:
 - empty_count
 - empty_string
